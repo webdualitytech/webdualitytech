@@ -79,7 +79,7 @@ We don’t just develop software; we craft experiences that empower businesses a
 Follow us on social media and stay updated with our latest innovations:
 
 📧 **Email Us:** [hr@webduality.com](mailto:info@webduality.com)  
-🌍 **Website:** [www.webduality.com](https://www.webduality.com)  
+🌍 **Website:** [www.webduality.in](https://www.webduality.com)  
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZfztDF4yg6swilPbgmjlzw)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/webduality)
