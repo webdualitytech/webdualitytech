@@ -95,4 +95,4 @@ Follow us on social media and stay updated with our latest innovations:
 
 🇺🇸 English | 🇮🇳 Hindi | 🇪🇸 Spanish | 🇫🇷 French | 🇩🇪 German | 🇯🇵 Japanese
 
-> *"Your Vision, Our Innovation!"*
+> *"Your Vision, Our Innovation!" (WTPL)*
