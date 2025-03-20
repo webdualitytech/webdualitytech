@@ -1,10 +1,14 @@
-<img src="https://res.cloudinary.com/dz6p8fkuj/image/upload/v1715101305/UniversityImgae/oyg5atggb1p4ujkq43hq.jpg" align="center" style="margin:0 auto;border-radius:50%;width:100px;display:flex;justify-content:center;">
+<p align="center">
+  <img src="https://res.cloudinary.com/dz6p8fkuj/image/upload/v1715101305/UniversityImgae/oyg5atggb1p4ujkq43hq.jpg" width="100" height="100" style="border-radius:50%;">
+</p>
 
 <h1 align="center"> Webduality Technologies Pvt. Ltd. </h1>
 
 🚀 **Innovate | Transform | Lead**
 
-![Company Banner](https://your-banner-url.com/banner.gif)
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/d763fd4b-c22a-44cf-940d-e06adb421bbd" autoplay loop>
+</p>
 
 ## About Us
 
@@ -74,7 +78,7 @@ We don’t just develop software; we craft experiences that empower businesses a
 
 Follow us on social media and stay updated with our latest innovations:
 
-📧 **Email Us:** [info@webduality.com](mailto:info@webduality.com)  
+📧 **Email Us:** [hr@webduality.com](mailto:info@webduality.com)  
 🌍 **Website:** [www.webduality.com](https://www.webduality.com)  
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZfztDF4yg6swilPbgmjlzw)
@@ -92,4 +96,3 @@ Follow us on social media and stay updated with our latest innovations:
 🇺🇸 English | 🇮🇳 Hindi | 🇪🇸 Spanish | 🇫🇷 French | 🇩🇪 German | 🇯🇵 Japanese
 
 > *"Your Vision, Our Innovation!"*
-
