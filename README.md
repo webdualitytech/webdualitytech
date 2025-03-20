@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dz6p8fkuj/image/upload/v1715101305/UniversityImgae/oyg5atggb1p4ujkq43hq.jpg" width="100" height="100" style="border-radius:50%;">
 </p>
 
-<h1 align="center"> Webduality Technologies Pvt. Ltd. </h1>
+<h1 align="center"> WebDuality Technologies Pvt. Ltd. </h1>
 
 🚀 **Innovate | Transform | Lead**
 
